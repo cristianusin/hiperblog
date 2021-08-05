@@ -7,5 +7,11 @@ Mañana nos enfocaremos en su vida laboral.
 Master 1
 
 probando los eue es cherri pik 
+<<<<<<< HEAD
+=======
+incluye no se  pero agregamos algo 
+
+disponible en todas las edades
+>>>>>>> hist-mejorado
 
 Freddy Vega da unas clases muy copadas, estoy aprendiendo bastante.
